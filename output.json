@@ -1,0 +1,222 @@
+[
+  {
+    "club": "Tottenham Hotspur",
+    "played": "10",
+    "win": "8",
+    "draw": "2",
+    "loss": "0",
+    "goalsScored": "22",
+    "goalsConceded": "9",
+    "goalsDifference": "+13",
+    "points": "26"
+  },
+  {
+    "club": "Arsenal",
+    "played": "10",
+    "win": "7",
+    "draw": "3",
+    "loss": "0",
+    "goalsScored": "23",
+    "goalsConceded": "8",
+    "goalsDifference": "+15",
+    "points": "24"
+  },
+  {
+    "club": "Manchester City",
+    "played": "10",
+    "win": "8",
+    "draw": "0",
+    "loss": "2",
+    "goalsScored": "22",
+    "goalsConceded": "7",
+    "goalsDifference": "+15",
+    "points": "24"
+  },
+  {
+    "club": "Liverpool",
+    "played": "10",
+    "win": "7",
+    "draw": "2",
+    "loss": "1",
+    "goalsScored": "23",
+    "goalsConceded": "9",
+    "goalsDifference": "+14",
+    "points": "23"
+  },
+  {
+    "club": "Aston Villa",
+    "played": "10",
+    "win": "7",
+    "draw": "1",
+    "loss": "2",
+    "goalsScored": "26",
+    "goalsConceded": "14",
+    "goalsDifference": "+12",
+    "points": "22"
+  },
+  {
+    "club": "Newcastle United",
+    "played": "10",
+    "win": "5",
+    "draw": "2",
+    "loss": "3",
+    "goalsScored": "26",
+    "goalsConceded": "11",
+    "goalsDifference": "+15",
+    "points": "17"
+  },
+  {
+    "club": "Brighton and Hove Albion",
+    "played": "10",
+    "win": "5",
+    "draw": "2",
+    "loss": "3",
+    "goalsScored": "23",
+    "goalsConceded": "19",
+    "goalsDifference": "+4",
+    "points": "17"
+  },
+  {
+    "club": "Manchester United",
+    "played": "10",
+    "win": "5",
+    "draw": "0",
+    "loss": "5",
+    "goalsScored": "11",
+    "goalsConceded": "16",
+    "goalsDifference": "-5",
+    "points": "15"
+  },
+  {
+    "club": "West Ham United",
+    "played": "10",
+    "win": "4",
+    "draw": "2",
+    "loss": "4",
+    "goalsScored": "16",
+    "goalsConceded": "17",
+    "goalsDifference": "-1",
+    "points": "14"
+  },
+  {
+    "club": "Brentford",
+    "played": "10",
+    "win": "3",
+    "draw": "4",
+    "loss": "3",
+    "goalsScored": "16",
+    "goalsConceded": "12",
+    "goalsDifference": "+4",
+    "points": "13"
+  },
+  {
+    "club": "Chelsea",
+    "played": "10",
+    "win": "3",
+    "draw": "3",
+    "loss": "4",
+    "goalsScored": "13",
+    "goalsConceded": "11",
+    "goalsDifference": "+2",
+    "points": "12"
+  },
+  {
+    "club": "Wolverhampton Wanderers",
+    "played": "10",
+    "win": "3",
+    "draw": "3",
+    "loss": "4",
+    "goalsScored": "13",
+    "goalsConceded": "17",
+    "goalsDifference": "-4",
+    "points": "12"
+  },
+  {
+    "club": "Crystal Palace",
+    "played": "10",
+    "win": "3",
+    "draw": "3",
+    "loss": "4",
+    "goalsScored": "8",
+    "goalsConceded": "13",
+    "goalsDifference": "-5",
+    "points": "12"
+  },
+  {
+    "club": "Fulham",
+    "played": "10",
+    "win": "3",
+    "draw": "3",
+    "loss": "4",
+    "goalsScored": "9",
+    "goalsConceded": "16",
+    "goalsDifference": "-7",
+    "points": "12"
+  },
+  {
+    "club": "Everton",
+    "played": "10",
+    "win": "3",
+    "draw": "1",
+    "loss": "6",
+    "goalsScored": "10",
+    "goalsConceded": "14",
+    "goalsDifference": "-4",
+    "points": "10"
+  },
+  {
+    "club": "Nottingham Forest",
+    "played": "10",
+    "win": "2",
+    "draw": "4",
+    "loss": "4",
+    "goalsScored": "10",
+    "goalsConceded": "15",
+    "goalsDifference": "-5",
+    "points": "10"
+  },
+  {
+    "club": "Bournemouth",
+    "played": "10",
+    "win": "1",
+    "draw": "3",
+    "loss": "6",
+    "goalsScored": "8",
+    "goalsConceded": "21",
+    "goalsDifference": "-13",
+    "points": "6"
+  },
+  {
+    "club": "Luton Town",
+    "played": "10",
+    "win": "1",
+    "draw": "2",
+    "loss": "7",
+    "goalsScored": "9",
+    "goalsConceded": "20",
+    "goalsDifference": "-11",
+    "points": "5"
+  },
+  {
+    "club": "Burnley",
+    "played": "10",
+    "win": "1",
+    "draw": "1",
+    "loss": "8",
+    "goalsScored": "8",
+    "goalsConceded": "25",
+    "goalsDifference": "-17",
+    "points": "4"
+  },
+  {
+    "club": "Sheffield United",
+    "played": "10",
+    "win": "0",
+    "draw": "1",
+    "loss": "9",
+    "goalsScored": "7",
+    "goalsConceded": "29",
+    "goalsDifference": "-22",
+    "points": "1"
+  }
+]
